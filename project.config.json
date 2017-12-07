@@ -1,0 +1,12 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wx2e2cfe4bbe8fa6f4",
+	"projectname": "cloud-demo-php",
+	"condition": {}
+}
