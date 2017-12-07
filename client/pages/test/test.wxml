@@ -1,0 +1,9 @@
+<!--pages/test/test.wxml-->
+<!--index.wxml-->
+<view class="container">
+    <form bindsubmit="formSubmit" bindreset="formReset">
+姓名：<input type="text" name="fname" class="border"/>
+年龄<input type="text" name="fage" class="border" />
+<button formType="submit">添加</button>
+</form>
+</view>
